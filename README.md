@@ -1,2 +1,2 @@
-# web-scripting
+# Web Scripting
 Learn JavaScript with ease. 
